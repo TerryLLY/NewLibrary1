@@ -1,2 +1,4 @@
 Name: NewFolder
 Type: FolderType
+Children:
+- File: NewFoldertestéé/NewFoldertestéé.yaml
